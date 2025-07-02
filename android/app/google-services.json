@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307554153832",
+    "project_id": "stadium-booking-app-6d588",
+    "storage_bucket": "stadium-booking-app-6d588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307554153832:android:3681682577e84a6c5112dd",
+        "android_client_info": {
+          "package_name": "com.jamalsinani.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Of_PLg6UoIqQDY3Gw7hMsb_KiWC-giY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
