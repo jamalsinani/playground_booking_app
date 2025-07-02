@@ -144,7 +144,7 @@ class _StadiumInfoTabState extends State<StadiumInfoTab> {
   }
 
   Future<void> fetchAddressFromLatLng(LatLng position) async {
-    const apiKey = "AIzaSyCMns-EDNOhWV8lcO2KgT63loD71G0xRXQ"; // Replace with your actual API key
+    
     final url = Uri.parse(
       "https://maps.googleapis.com/maps/api/geocode/json?latlng=${position.latitude},${position.longitude}&language=ar&key=$apiKey"
     );
